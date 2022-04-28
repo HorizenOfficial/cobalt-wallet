@@ -6,6 +6,18 @@ You can find the latest version of Cobalt on [our official website](https://toke
 
 Cobalt supports Google Chrome, and Chromium-based browsers. We recommend using the latest available browser version.
 
+## About
+
+Cobalt is a browser extension that communicates with TokenMint on the Horizen Tokenization Platform. 
+
+Features include:
+- Generating a wallet for TokenMint
+- Restoring a wallet for TokenMint
+- Showing account balance and transaction history for fungible tokens and ZEN on TokenMint
+- Sending and receiving fungible tokens on TokenMint
+- Sending ZEN to the Horizen Mainchain and receiving ZEN from the Horizen Mainchain
+
+
 ## Installation Instructions
 We recommend installing the extension directly on your browser. However, if you would like to install a specific version of the extension, they are available [here](https://github.com/HorizenOfficial/cobalt-wallet/releases).
 
