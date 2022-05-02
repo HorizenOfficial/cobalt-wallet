@@ -25,4 +25,4 @@ We recommend installing the extension directly on your browser. However, if you 
 1.  Download the zip file and unzip it
 2.  In your browser, go to chrome://extensions
 3.  Toggle on Developer Mode
-4.  Press the “Load Unpacked” button and upload the packaged file
+4.  Press the “Load Unpacked” button and upload the packaged directory
