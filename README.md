@@ -2,8 +2,6 @@
 
 # Cobalt Browser Extension
 
-You can find the latest version of Cobalt on [our official website](https://tokenmint.global). For help using Cobalt, visit our [User Guide](https://docs.tokenmint.global).
-
 Cobalt supports Google Chrome, and Chromium-based browsers. We recommend using the latest available browser version.
 
 ## About
@@ -20,7 +18,7 @@ Features include:
 
 ## Installation Instructions
 
-We recommend installing the extension directly on your browser. However, if you would like to install a specific version of the extension, they are available [here](https://github.com/HorizenOfficial/cobalt-wallet/releases).
+The extension files are available for download [here](https://github.com/HorizenOfficial/cobalt-wallet/releases).
 
 1.  Download the zip file and unzip it
 2.  In your browser, go to chrome://extensions
