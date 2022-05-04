@@ -1,4 +1,4 @@
-## 1.0.0
+## [1.0.0.9](https://github.com/HorizenOfficial/cobalt-wallet/releases/tag/1.0.0.9)
 ### Features
 - Generate a wallet
 - Restore a wallet
